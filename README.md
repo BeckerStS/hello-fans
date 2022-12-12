@@ -1,7 +1,6 @@
-# About This Workspace
 Join me on my journey creating "Flat"- ideas for office head-banger.  
 To give some references : [Click](https://youtu.be/qmsbP13xu6k "https://youtu.be/qmsbP13xu6k")  
-Oh and BTW ... beside me learning "Flat"-coding my name is not "Eric".
+Oh and BTW ... my name is not "Eric".
 
 ## About Me
 * 👋 Hi, my CodeName is @BeckerStS
